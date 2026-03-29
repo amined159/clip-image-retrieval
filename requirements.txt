@@ -1,0 +1,10 @@
+torch
+torchvision
+open_clip_torch
+numpy
+pillow
+tqdm
+scikit-learn
+matplotlib
+pandas
+openai

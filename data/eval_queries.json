@@ -1,0 +1,821 @@
+[
+  {
+    "query": "book and reading",
+    "relevant_image_ids": [
+      "img_001"
+    ],
+    "source_query": "book and reading"
+  },
+  {
+    "query": "book illustration search and reading concept art",
+    "relevant_image_ids": [
+      "img_001"
+    ],
+    "source_query": "book illustration search and reading concept art"
+  },
+  {
+    "query": "person facing a giant open handwritten book on green background",
+    "relevant_image_ids": [
+      "img_001"
+    ],
+    "source_query": "A person faces a giant open book with handwritten pages against a green background"
+  },
+  {
+    "query": "prison bars",
+    "relevant_image_ids": [
+      "img_002"
+    ],
+    "source_query": "prison and bars"
+  },
+  {
+    "query": "prison image search and human portrait illustration",
+    "relevant_image_ids": [
+      "img_002"
+    ],
+    "source_query": "prison image search and human portrait illustration"
+  },
+  {
+    "query": "stylized man behind prison bars on red background",
+    "relevant_image_ids": [
+      "img_002"
+    ],
+    "source_query": "A stylized man is shown behind vertical prison bars against a red background"
+  },
+  {
+    "query": "mask and portrait",
+    "relevant_image_ids": [
+      "img_003"
+    ],
+    "source_query": "mask and portrait"
+  },
+  {
+    "query": "masked person portrait concealing identity",
+    "relevant_image_ids": [
+      "img_003"
+    ],
+    "source_query": "masked person portrait and identity and concealment"
+  },
+  {
+    "query": "person in white shirt holding blank mask over face",
+    "relevant_image_ids": [
+      "img_003"
+    ],
+    "source_query": "A person in a white shirt holds a blank mask over their face against a dramatic red and blue background"
+  },
+  {
+    "query": "open book and fire",
+    "relevant_image_ids": [
+      "img_004"
+    ],
+    "source_query": "open book and fire"
+  },
+  {
+    "query": "book burning and censorship illustration",
+    "relevant_image_ids": [
+      "img_004"
+    ],
+    "source_query": "book burning concept and censorship illustration"
+  },
+  {
+    "query": "open book burning beside a person on yellow background",
+    "relevant_image_ids": [
+      "img_004"
+    ],
+    "source_query": "An open book is burning while a person stands beside it against a plain yellow background"
+  },
+  {
+    "query": "meditation and a person",
+    "relevant_image_ids": [
+      "img_005"
+    ],
+    "source_query": "meditation and person"
+  },
+  {
+    "query": "meditation and mindfulness concept illustration",
+    "relevant_image_ids": [
+      "img_005"
+    ],
+    "source_query": "meditation concept and mindfulness illustration"
+  },
+  {
+    "query": "person meditating cross-legged with geometric shapes orbiting head",
+    "relevant_image_ids": [
+      "img_005"
+    ],
+    "source_query": "A person sits cross-legged in meditation with abstract geometric shapes orbiting around the head"
+  },
+  {
+    "query": "clock and shattered",
+    "relevant_image_ids": [
+      "img_006"
+    ],
+    "source_query": "clock and shattered"
+  },
+  {
+    "query": "time pressure and deadline imagery",
+    "relevant_image_ids": [
+      "img_006"
+    ],
+    "source_query": "time pressure concept and deadline imagery"
+  },
+  {
+    "query": "shattered clock face near twelve with silhouetted figure below",
+    "relevant_image_ids": [
+      "img_006"
+    ],
+    "source_query": "A large clock face appears shattered near the twelve, with a lone silhouetted figure standing below in darkness"
+  },
+  {
+    "query": "man in business attire",
+    "relevant_image_ids": [
+      "img_007"
+    ],
+    "source_query": "man and business attire"
+  },
+  {
+    "query": "concept art and business metaphor imagery",
+    "relevant_image_ids": [
+      "img_007"
+    ],
+    "source_query": "concept art search and business metaphor imagery"
+  },
+  {
+    "query": "man in dress shirt and tie standing in spotlight beside dark kneeling shadow",
+    "relevant_image_ids": [
+      "img_007"
+    ],
+    "source_query": "A man in a dress shirt and tie stands in a spotlight beside his dark kneeling shadow"
+  },
+  {
+    "query": "abstract and geometric",
+    "relevant_image_ids": [
+      "img_008"
+    ],
+    "source_query": "abstract and geometric"
+  },
+  {
+    "query": "abstract art and surreal illustration search",
+    "relevant_image_ids": [
+      "img_008"
+    ],
+    "source_query": "abstract art retrieval and surreal illustration search"
+  },
+  {
+    "query": "man beside a large geometric cube with hollow interior",
+    "relevant_image_ids": [
+      "img_008"
+    ],
+    "source_query": "A man stands beside a large geometric cube with an impossible hollow interior in a purple-lit scene"
+  },
+  {
+    "query": "candle and person",
+    "relevant_image_ids": [
+      "img_009"
+    ],
+    "source_query": "candle and person"
+  },
+  {
+    "query": "candle illustration and solitary figure",
+    "relevant_image_ids": [
+      "img_009"
+    ],
+    "source_query": "candle illustration and solitary figure"
+  },
+  {
+    "query": "lit candle in a dark room beside a seated person",
+    "relevant_image_ids": [
+      "img_009"
+    ],
+    "source_query": "A lit candle stands in a dark room beside a seated person in a pool of warm light"
+  },
+  {
+    "query": "hourglass and silhouette",
+    "relevant_image_ids": [
+      "img_010"
+    ],
+    "source_query": "hourglass and silhouette"
+  },
+  {
+    "query": "time concept business illustration search",
+    "relevant_image_ids": [
+      "img_010"
+    ],
+    "source_query": "time concept search and business illustration retrieval"
+  },
+  {
+    "query": "silhouetted man beside a large hourglass in split light",
+    "relevant_image_ids": [
+      "img_010"
+    ],
+    "source_query": "A silhouetted man stands beside a large hourglass in a dramatic split-light scene"
+  },
+  {
+    "query": "conversation and meeting",
+    "relevant_image_ids": [
+      "img_011"
+    ],
+    "source_query": "conversation and meeting"
+  },
+  {
+    "query": "business discussion and team meeting",
+    "relevant_image_ids": [
+      "img_011"
+    ],
+    "source_query": "business discussion and team meeting"
+  },
+  {
+    "query": "two men discussing across a table with abstract symbols",
+    "relevant_image_ids": [
+      "img_011"
+    ],
+    "source_query": "An illustrated scene shows two men in discussion across a table with abstract symbols floating between them"
+  },
+  {
+    "query": "courtroom trial",
+    "relevant_image_ids": [
+      "img_012"
+    ],
+    "source_query": "courtroom and trial"
+  },
+  {
+    "query": "courtroom scene legal illustration",
+    "relevant_image_ids": [
+      "img_012"
+    ],
+    "source_query": "courtroom scene search and legal illustration retrieval"
+  },
+  {
+    "query": "illustrated courtroom scene with standing man before judge, jury, and lawyer",
+    "relevant_image_ids": [
+      "img_012"
+    ],
+    "source_query": "An illustrated courtroom scene shows a standing man facing a judge, jury, and lawyer"
+  },
+  {
+    "query": "man with doors",
+    "relevant_image_ids": [
+      "img_013"
+    ],
+    "source_query": "man and doors"
+  },
+  {
+    "query": "decision making and business choice illustration",
+    "relevant_image_ids": [
+      "img_013"
+    ],
+    "source_query": "decision making concept and business choice illustration"
+  },
+  {
+    "query": "man standing between two contrasting doors in minimalist illustration",
+    "relevant_image_ids": [
+      "img_013"
+    ],
+    "source_query": "A man stands between two contrasting doors in a minimalist illustration"
+  },
+  {
+    "query": "blueprint and drafting",
+    "relevant_image_ids": [
+      "img_014"
+    ],
+    "source_query": "blueprint and drafting"
+  },
+  {
+    "query": "engineering design and project planning",
+    "relevant_image_ids": [
+      "img_014"
+    ],
+    "source_query": "engineering design and project planning"
+  },
+  {
+    "query": "person marking a large technical blueprint with drafting tools",
+    "relevant_image_ids": [
+      "img_014"
+    ],
+    "source_query": "A person stands before a large technical blueprint and makes markings with drafting tools"
+  },
+  {
+    "query": "person with jars",
+    "relevant_image_ids": [
+      "img_015"
+    ],
+    "source_query": "person and jars"
+  },
+  {
+    "query": "surreal illustration with emotions and concept art",
+    "relevant_image_ids": [
+      "img_015"
+    ],
+    "source_query": "surreal illustration search and emotions concept art"
+  },
+  {
+    "query": "person examining a glowing jar in a red-lit room",
+    "relevant_image_ids": [
+      "img_015"
+    ],
+    "source_query": "A person examines a glowing jar while shelves of jars filled with stylized emotions surround them in a red-lit room"
+  },
+  {
+    "query": "staircase and maze",
+    "relevant_image_ids": [
+      "img_016"
+    ],
+    "source_query": "staircase and maze"
+  },
+  {
+    "query": "surreal art and maze-like architecture",
+    "relevant_image_ids": [
+      "img_016"
+    ],
+    "source_query": "surreal art and maze architecture"
+  },
+  {
+    "query": "Lone person with backpack in surreal staircase maze",
+    "relevant_image_ids": [
+      "img_016"
+    ],
+    "source_query": "A lone person with a backpack walks across a surreal maze of intersecting staircases inside a dark architectural space"
+  },
+  {
+    "query": "person fishing",
+    "relevant_image_ids": [
+      "img_017"
+    ],
+    "source_query": "person and fishing"
+  },
+  {
+    "query": "fishing scene with a solitary figure",
+    "relevant_image_ids": [
+      "img_017"
+    ],
+    "source_query": "fishing scene and solitary figure"
+  },
+  {
+    "query": "lone person sitting on a ledge holding a fishing rod in low light",
+    "relevant_image_ids": [
+      "img_017"
+    ],
+    "source_query": "A lone person sits on the edge of a ledge while holding a fishing rod in dramatic low light"
+  },
+  {
+    "query": "forest and man",
+    "relevant_image_ids": [
+      "img_018"
+    ],
+    "source_query": "forest and man"
+  },
+  {
+    "query": "forest scene with a solitary outdoor figure",
+    "relevant_image_ids": [
+      "img_018"
+    ],
+    "source_query": "forest scene retrieval and solitary figure outdoors"
+  },
+  {
+    "query": "lone man walking along a forest path toward bright light",
+    "relevant_image_ids": [
+      "img_018"
+    ],
+    "source_query": "A lone man walks along a forest path toward bright light through tall trees"
+  },
+  {
+    "query": "illustration and walking",
+    "relevant_image_ids": [
+      "img_019"
+    ],
+    "source_query": "illustration and walking"
+  },
+  {
+    "query": "loneliness concept with stylized walking figure",
+    "relevant_image_ids": [
+      "img_019"
+    ],
+    "source_query": "loneliness concept search and stylized walking figure"
+  },
+  {
+    "query": "Lone man walking under a spotlight with blurred figures",
+    "relevant_image_ids": [
+      "img_019"
+    ],
+    "source_query": "A stylized illustration shows a lone man walking under a spotlight with blurred figures in the background"
+  },
+  {
+    "query": "person and drawer",
+    "relevant_image_ids": [
+      "img_020"
+    ],
+    "source_query": "person and drawer"
+  },
+  {
+    "query": "person opening a drawer in a dark interior",
+    "relevant_image_ids": [
+      "img_020"
+    ],
+    "source_query": "person opening drawer and dark interior scene"
+  },
+  {
+    "query": "Person opening a glowing drawer in a dark room",
+    "relevant_image_ids": [
+      "img_020"
+    ],
+    "source_query": "A person opens a glowing drawer in a dark room"
+  },
+  {
+    "query": "library with bookshelves",
+    "relevant_image_ids": [
+      "img_021"
+    ],
+    "source_query": "library and bookshelves"
+  },
+  {
+    "query": "library scene and mysterious illustration search",
+    "relevant_image_ids": [
+      "img_021"
+    ],
+    "source_query": "library scene search and mysterious illustration retrieval"
+  },
+  {
+    "query": "person walking through a dim library aisle with a lantern",
+    "relevant_image_ids": [
+      "img_021"
+    ],
+    "source_query": "A lone person walks through a dim library aisle holding a lantern"
+  },
+  {
+    "query": "silhouette of a man",
+    "relevant_image_ids": [
+      "img_022"
+    ],
+    "source_query": "silhouette and man"
+  },
+  {
+    "query": "abstract figure art and dark poster design",
+    "relevant_image_ids": [
+      "img_022"
+    ],
+    "source_query": "abstract figure art and dark poster design"
+  },
+  {
+    "query": "silhouetted man beside geometric block with long shadows",
+    "relevant_image_ids": [
+      "img_022"
+    ],
+    "source_query": "A silhouetted man stands beside a geometric block against a dark gradient background with long shadows"
+  },
+  {
+    "query": "head silhouette and world map",
+    "relevant_image_ids": [
+      "img_023"
+    ],
+    "source_query": "head silhouette and world map"
+  },
+  {
+    "query": "concept art with travel and exploration imagery",
+    "relevant_image_ids": [
+      "img_023"
+    ],
+    "source_query": "concept art retrieval and travel and exploration imagery"
+  },
+  {
+    "query": "person inside a head silhouette looking at a world map",
+    "relevant_image_ids": [
+      "img_023"
+    ],
+    "source_query": "A person stands inside a head silhouette looking at a world map filled with travel-style markings"
+  },
+  {
+    "query": "mouse and silhouette",
+    "relevant_image_ids": [
+      "img_024"
+    ],
+    "source_query": "mouse and silhouette"
+  },
+  {
+    "query": "mouse illustration with shadow composition",
+    "relevant_image_ids": [
+      "img_024"
+    ],
+    "source_query": "mouse illustration and shadow composition"
+  },
+  {
+    "query": "small mouse facing oversized mouse silhouette",
+    "relevant_image_ids": [
+      "img_024"
+    ],
+    "source_query": "A small mouse faces a looming oversized mouse silhouette in a stark, dramatic scene"
+  },
+  {
+    "query": "man wearing a fedora",
+    "relevant_image_ids": [
+      "img_025"
+    ],
+    "source_query": "man and fedora"
+  },
+  {
+    "query": "noir illustration and red monochrome scene",
+    "relevant_image_ids": [
+      "img_025"
+    ],
+    "source_query": "noir illustration retrieval and red monochrome scene search"
+  },
+  {
+    "query": "Stylized man in fedora and sunglasses at a cafe table holding a steaming cup in red light",
+    "relevant_image_ids": [
+      "img_025"
+    ],
+    "source_query": "A stylized man in a fedora and sunglasses sits at a cafe table holding a steaming cup in a red-lit scene"
+  },
+  {
+    "query": "abstract head",
+    "relevant_image_ids": [
+      "img_026"
+    ],
+    "source_query": "abstract and head"
+  },
+  {
+    "query": "abstract concept art business meeting",
+    "relevant_image_ids": [
+      "img_026"
+    ],
+    "source_query": "abstract concept art and business meeting search"
+  },
+  {
+    "query": "split-color abstract head with two people meeting at a table",
+    "relevant_image_ids": [
+      "img_026"
+    ],
+    "source_query": "A split-color abstract head contains two people seated across a table in a conceptual meeting scene"
+  },
+  {
+    "query": "silhouette with red lighting",
+    "relevant_image_ids": [
+      "img_027"
+    ],
+    "source_query": "silhouette and red lighting"
+  },
+  {
+    "query": "abstract human figure crime thriller scene",
+    "relevant_image_ids": [
+      "img_027"
+    ],
+    "source_query": "abstract human figure scene and crime thriller imagery"
+  },
+  {
+    "query": "Lone man in a red-lit room beside a glowing human outline",
+    "relevant_image_ids": [
+      "img_027"
+    ],
+    "source_query": "A lone man stands in a red-lit room beside a glowing outline of a human figure on the floor"
+  },
+  {
+    "query": "illustration of a man",
+    "relevant_image_ids": [
+      "img_028"
+    ],
+    "source_query": "illustration and man"
+  },
+  {
+    "query": "business concept search and decision-making theme",
+    "relevant_image_ids": [
+      "img_028"
+    ],
+    "source_query": "business concept search and decision-making theme"
+  },
+  {
+    "query": "Illustrated man in a suit studying a tall stack of papers",
+    "relevant_image_ids": [
+      "img_028"
+    ],
+    "source_query": "An illustrated man in a suit sits at a table and studies a tall stack of papers"
+  },
+  {
+    "query": "woman with puppet strings",
+    "relevant_image_ids": [
+      "img_029"
+    ],
+    "source_query": "puppet strings and woman"
+  },
+  {
+    "query": "editorial control, theme, psychology, and manipulation",
+    "relevant_image_ids": [
+      "img_029"
+    ],
+    "source_query": "editorial control theme and psychology and manipulation"
+  },
+  {
+    "query": "woman sitting in a chair under puppet strings",
+    "relevant_image_ids": [
+      "img_029"
+    ],
+    "source_query": "A woman sits in a chair under puppet strings controlled by large hands above"
+  },
+  {
+    "query": "abstract head silhouette",
+    "relevant_image_ids": [
+      "img_030"
+    ],
+    "source_query": "abstract and head silhouette"
+  },
+  {
+    "query": "abstract art for mental health concept images",
+    "relevant_image_ids": [
+      "img_030"
+    ],
+    "source_query": "abstract art retrieval and mental health concept images"
+  },
+  {
+    "query": "red abstract illustration of a human head silhouette with geometric layers and a central angular shape",
+    "relevant_image_ids": [
+      "img_030"
+    ],
+    "source_query": "A red abstract illustration shows a human head silhouette with geometric layers and a central angular shape"
+  },
+  {
+    "query": "illustration and person",
+    "relevant_image_ids": [
+      "img_031"
+    ],
+    "source_query": "illustration and person"
+  },
+  {
+    "query": "astronomy concepts and discovery",
+    "relevant_image_ids": [
+      "img_031"
+    ],
+    "source_query": "astronomy concept and search and discovery"
+  },
+  {
+    "query": "Illustrated person in red shirt looking through telescope",
+    "relevant_image_ids": [
+      "img_031"
+    ],
+    "source_query": "An illustrated person in a red shirt looks through a large telescope against a dark background"
+  },
+  {
+    "query": "cityscape with pedestrians",
+    "relevant_image_ids": [
+      "img_032"
+    ],
+    "source_query": "cityscape and pedestrians"
+  },
+  {
+    "query": "city street scene and urban business concept",
+    "relevant_image_ids": [
+      "img_032"
+    ],
+    "source_query": "city street scene and business urban concept"
+  },
+  {
+    "query": "man standing in a window overlooking a busy city street",
+    "relevant_image_ids": [
+      "img_032"
+    ],
+    "source_query": "A man stands in a window overlooking a busy city street with pedestrians and taxis"
+  },
+  {
+    "query": "portrait of a businessman",
+    "relevant_image_ids": [
+      "img_033"
+    ],
+    "source_query": "portrait and businessman"
+  },
+  {
+    "query": "split-tone portrait and urban professional illustration",
+    "relevant_image_ids": [
+      "img_033"
+    ],
+    "source_query": "split-tone portrait and urban professional illustration"
+  },
+  {
+    "query": "stylized split portrait of a man in a suit and hood holding a coffee cup and cigarette",
+    "relevant_image_ids": [
+      "img_033"
+    ],
+    "source_query": "A stylized split portrait shows a man in a suit and hood holding a coffee cup and a cigarette"
+  },
+  {
+    "query": "man and silhouette",
+    "relevant_image_ids": [
+      "img_034"
+    ],
+    "source_query": "man and silhouette"
+  },
+  {
+    "query": "lonely figure with dramatic lighting",
+    "relevant_image_ids": [
+      "img_034"
+    ],
+    "source_query": "lonely figure and dramatic lighting"
+  },
+  {
+    "query": "lone man in a dark room lit by a narrow beam of light",
+    "relevant_image_ids": [
+      "img_034"
+    ],
+    "source_query": "A lone man stands in a dark room illuminated by a narrow beam of light"
+  },
+  {
+    "query": "crowd and a lone figure",
+    "relevant_image_ids": [
+      "img_035"
+    ],
+    "source_query": "crowd and lone figure"
+  },
+  {
+    "query": "loneliness and leadership metaphor",
+    "relevant_image_ids": [
+      "img_035"
+    ],
+    "source_query": "loneliness concept and leadership metaphor"
+  },
+  {
+    "query": "a lone man walking through a crowd toward bright light",
+    "relevant_image_ids": [
+      "img_035"
+    ],
+    "source_query": "A lone man walks forward through a crowd toward a bright light"
+  },
+  {
+    "query": "silhouette with chain",
+    "relevant_image_ids": [
+      "img_036"
+    ],
+    "source_query": "silhouette and chain"
+  },
+  {
+    "query": "conceptual struggle and psychological burden",
+    "relevant_image_ids": [
+      "img_036"
+    ],
+    "source_query": "conceptual struggle and psychological burden"
+  },
+  {
+    "query": "silhouetted person dragging a heavy chain and block",
+    "relevant_image_ids": [
+      "img_036"
+    ],
+    "source_query": "A silhouetted person strains forward while dragging a heavy chain attached to a large block"
+  },
+  {
+    "query": "man with smartphone",
+    "relevant_image_ids": [
+      "img_037"
+    ],
+    "source_query": "man and smartphone"
+  },
+  {
+    "query": "person using a phone with a red abstract background",
+    "relevant_image_ids": [
+      "img_037"
+    ],
+    "source_query": "person using phone and red abstract background"
+  },
+  {
+    "query": "man facing a red patterned wall holding a smartphone",
+    "relevant_image_ids": [
+      "img_037"
+    ],
+    "source_query": "A man stands facing a red patterned wall while holding up a smartphone"
+  },
+  {
+    "query": "silhouettes and a man",
+    "relevant_image_ids": [
+      "img_038"
+    ],
+    "source_query": "silhouettes and man"
+  },
+  {
+    "query": "relationship conflict, division, and contrast",
+    "relevant_image_ids": [
+      "img_038"
+    ],
+    "source_query": "relationship conflict and division and contrast"
+  },
+  {
+    "query": "man and woman on opposite sides of a jagged split background",
+    "relevant_image_ids": [
+      "img_038"
+    ],
+    "source_query": "A man and woman stand on opposite sides of a jagged split background"
+  },
+  {
+    "query": "distress and chain",
+    "relevant_image_ids": [
+      "img_039"
+    ],
+    "source_query": "distress and chain"
+  },
+  {
+    "query": "mental health, stress, and anxiety concept",
+    "relevant_image_ids": [
+      "img_039"
+    ],
+    "source_query": "mental health concept and stress and anxiety"
+  },
+  {
+    "query": "Distressed man at desk with head in hand and chain on wrist",
+    "relevant_image_ids": [
+      "img_039"
+    ],
+    "source_query": "A distressed man sits at a desk with his head in his hand and a chain and padlock attached to his wrist"
+  }
+]

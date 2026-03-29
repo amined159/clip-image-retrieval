@@ -1,3 +1,9 @@
+# data
+data/images/
+data/embeddings/
+data/evaluation_results.json
+data/eval_queries_draft.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

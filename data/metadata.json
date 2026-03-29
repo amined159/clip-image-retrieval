@@ -1,0 +1,925 @@
+[
+  {
+    "id": "img_001",
+    "filename": "acient_book$.png",
+    "description": "A person faces a giant open book with handwritten pages against a green background.",
+    "tags": [
+      "book",
+      "reading",
+      "person",
+      "illustration",
+      "green",
+      "literature"
+    ],
+    "mood": [
+      "thoughtful",
+      "calm"
+    ],
+    "use_cases": [
+      "book illustration search",
+      "reading concept art",
+      "literature-themed graphic"
+    ],
+    "composition": "Centered rear view with a large open book dominating the frame"
+  },
+  {
+    "id": "img_002",
+    "filename": "behind-bars.png",
+    "description": "A stylized man is shown behind vertical prison bars against a red background.",
+    "tags": [
+      "prison",
+      "bars",
+      "man",
+      "portrait",
+      "illustration"
+    ],
+    "mood": [
+      "tense",
+      "somber"
+    ],
+    "use_cases": [
+      "prison image search",
+      "human portrait illustration",
+      "crime and punishment concept",
+      "red poster artwork"
+    ],
+    "composition": "Centered bust portrait with vertical bars in the foreground"
+  },
+  {
+    "id": "img_003",
+    "filename": "behind-mask.png",
+    "description": "A person in a white shirt holds a blank mask over their face against a dramatic red and blue background.",
+    "tags": [
+      "mask",
+      "portrait",
+      "person",
+      "theater",
+      "identity"
+    ],
+    "mood": [
+      "mysterious",
+      "dramatic"
+    ],
+    "use_cases": [
+      "masked person portrait",
+      "identity and concealment",
+      "dramatic poster art"
+    ],
+    "composition": "Centered half-body portrait with strong side lighting"
+  },
+  {
+    "id": "img_004",
+    "filename": "burning_page.png",
+    "description": "An open book is burning while a person stands beside it against a plain yellow background.",
+    "tags": [
+      "open book",
+      "fire",
+      "person",
+      "illustration",
+      "education",
+      "censorship"
+    ],
+    "mood": [
+      "tense",
+      "symbolic"
+    ],
+    "use_cases": [
+      "book burning concept",
+      "censorship illustration",
+      "education warning graphic",
+      "literature symbolism"
+    ],
+    "composition": "Centered open book with side figure and large negative space"
+  },
+  {
+    "id": "img_005",
+    "filename": "circulating_orbits.png",
+    "description": "A person sits cross-legged in meditation with abstract geometric shapes orbiting around the head.",
+    "tags": [
+      "meditation",
+      "person",
+      "abstract",
+      "geometry",
+      "mindfulness"
+    ],
+    "mood": [
+      "calm",
+      "contemplative"
+    ],
+    "use_cases": [
+      "meditation concept",
+      "mindfulness illustration",
+      "abstract wellness art",
+      "mental focus search"
+    ],
+    "composition": "Centered full-body figure with orbiting shapes on a plain background"
+  },
+  {
+    "id": "img_006",
+    "filename": "clock_devours.png",
+    "description": "A large clock face appears shattered near the twelve, with a lone silhouetted figure standing below in darkness.",
+    "tags": [
+      "clock",
+      "shattered",
+      "time",
+      "silhouette",
+      "darkness"
+    ],
+    "mood": [
+      "tense",
+      "ominous"
+    ],
+    "use_cases": [
+      "time pressure concept",
+      "deadline imagery",
+      "broken clock illustration",
+      "abstract urgency"
+    ],
+    "composition": "diagonal close-up with negative space and small figure"
+  },
+  {
+    "id": "img_007",
+    "filename": "collapsed_shadow.png",
+    "description": "A man in a dress shirt and tie stands in a spotlight beside his dark kneeling shadow.",
+    "tags": [
+      "man",
+      "business attire",
+      "shadow",
+      "spotlight",
+      "contrast",
+      "conceptual"
+    ],
+    "mood": [
+      "dramatic",
+      "symbolic",
+      "serious"
+    ],
+    "use_cases": [
+      "concept art search",
+      "business metaphor imagery",
+      "shadow and light scenes",
+      "leadership or identity concepts"
+    ],
+    "composition": "full-body figure on the right with large shadow on the left"
+  },
+  {
+    "id": "img_008",
+    "filename": "contemplate_void.png",
+    "description": "A man stands beside a large geometric cube with an impossible hollow interior in a purple-lit scene.",
+    "tags": [
+      "abstract",
+      "geometric",
+      "cube",
+      "figure",
+      "surreal",
+      "purple"
+    ],
+    "mood": [
+      "mysterious",
+      "futuristic"
+    ],
+    "use_cases": [
+      "abstract art retrieval",
+      "surreal illustration search",
+      "purple geometric design",
+      "conceptual human figure"
+    ],
+    "composition": "Wide composition with centered object and small figure at lower right"
+  },
+  {
+    "id": "img_009",
+    "filename": "contemplating_candle.png",
+    "description": "A lit candle stands in a dark room beside a seated person in a pool of warm light.",
+    "tags": [
+      "candle",
+      "person",
+      "dark room",
+      "warm light",
+      "solitude"
+    ],
+    "mood": [
+      "quiet",
+      "melancholic",
+      "reflective"
+    ],
+    "use_cases": [
+      "candle illustration",
+      "solitary figure",
+      "moody lighting",
+      "dark interior"
+    ],
+    "composition": "centered candle with seated figure at lower right"
+  },
+  {
+    "id": "img_010",
+    "filename": "contemplating_shadow_time.png",
+    "description": "A silhouetted man stands beside a large hourglass in a dramatic split-light scene.",
+    "tags": [
+      "hourglass",
+      "silhouette",
+      "man",
+      "time",
+      "shadow",
+      "illustration"
+    ],
+    "mood": [
+      "dramatic",
+      "reflective"
+    ],
+    "use_cases": [
+      "time concept search",
+      "business illustration retrieval",
+      "metaphor for deadline"
+    ],
+    "composition": "Vertical composition with central hourglass and figure on the right"
+  },
+  {
+    "id": "img_011",
+    "filename": "conversation.png",
+    "description": "An illustrated scene shows two men in discussion across a table with abstract symbols floating between them.",
+    "tags": [
+      "conversation",
+      "meeting",
+      "discussion",
+      "silhouette",
+      "abstract symbols"
+    ],
+    "mood": [
+      "tense",
+      "dynamic"
+    ],
+    "use_cases": [
+      "business discussion",
+      "team meeting",
+      "conflict resolution",
+      "abstract communication"
+    ],
+    "composition": "Side-view composition with two figures facing each other across a table"
+  },
+  {
+    "id": "img_012",
+    "filename": "courtroom.png",
+    "description": "An illustrated courtroom scene shows a standing man facing a judge, jury, and lawyer.",
+    "tags": [
+      "courtroom",
+      "trial",
+      "judge",
+      "lawyer",
+      "jury"
+    ],
+    "mood": [
+      "formal",
+      "tense"
+    ],
+    "use_cases": [
+      "courtroom scene search",
+      "legal illustration retrieval",
+      "trial and jury concept",
+      "judicial proceedings"
+    ],
+    "composition": "Wide frontal view with central witness and symmetrical courtroom layout"
+  },
+  {
+    "id": "img_013",
+    "filename": "crossdoors.png",
+    "description": "A man stands between two contrasting doors in a minimalist illustration.",
+    "tags": [
+      "man",
+      "doors",
+      "choice",
+      "contrast",
+      "minimalist",
+      "decision"
+    ],
+    "mood": [
+      "ambiguous",
+      "tense"
+    ],
+    "use_cases": [
+      "decision making concept",
+      "business choice illustration",
+      "two-path comparison",
+      "minimalist office metaphor"
+    ],
+    "composition": "centered figure facing two doors with strong diagonal light and shadow"
+  },
+  {
+    "id": "img_014",
+    "filename": "draw_wall.png",
+    "description": "A person stands before a large technical blueprint and makes markings with drafting tools.",
+    "tags": [
+      "blueprint",
+      "drafting",
+      "engineer",
+      "planning",
+      "diagram"
+    ],
+    "mood": [
+      "focused",
+      "analytical"
+    ],
+    "use_cases": [
+      "engineering design",
+      "project planning",
+      "technical illustration",
+      "architecture concept"
+    ],
+    "composition": "rear view figure centered against a large schematic background"
+  },
+  {
+    "id": "img_015",
+    "filename": "emotions_jars.png",
+    "description": "A person examines a glowing jar while shelves of jars filled with stylized emotions surround them in a red-lit room.",
+    "tags": [
+      "person",
+      "jars",
+      "emotions",
+      "glow",
+      "shelves",
+      "red lighting"
+    ],
+    "mood": [
+      "intense",
+      "mysterious",
+      "dreamlike"
+    ],
+    "use_cases": [
+      "surreal illustration search",
+      "emotions concept art",
+      "person holding jar",
+      "red ambient scene"
+    ],
+    "composition": "rear three-quarter view with centered focal jar and surrounding shelves"
+  },
+  {
+    "id": "img_016",
+    "filename": "endless_stairs.png",
+    "description": "A lone person with a backpack walks across a surreal maze of intersecting staircases inside a dark architectural space.",
+    "tags": [
+      "staircase",
+      "maze",
+      "person",
+      "architecture",
+      "surreal"
+    ],
+    "mood": [
+      "mysterious",
+      "dreamlike",
+      "isolated"
+    ],
+    "use_cases": [
+      "surreal art",
+      "maze architecture",
+      "person walking stairs",
+      "abstract interior"
+    ],
+    "composition": "Wide isometric view with crisscrossing diagonal stairways and a central figure"
+  },
+  {
+    "id": "img_017",
+    "filename": "fishing-unkown.png",
+    "description": "A lone person sits on the edge of a ledge while holding a fishing rod in dramatic low light.",
+    "tags": [
+      "person",
+      "fishing",
+      "ledge",
+      "silhouette",
+      "dramatic lighting"
+    ],
+    "mood": [
+      "moody",
+      "isolated",
+      "tense"
+    ],
+    "use_cases": [
+      "fishing scene",
+      "solitary figure",
+      "dramatic illustration",
+      "minimalist composition"
+    ],
+    "composition": "Wide shot with strong negative space and diagonal ledge"
+  },
+  {
+    "id": "img_018",
+    "filename": "forrest_dusk.png",
+    "description": "A lone man walks along a forest path toward bright light through tall trees.",
+    "tags": [
+      "forest",
+      "man",
+      "path",
+      "trees",
+      "light"
+    ],
+    "mood": [
+      "mysterious",
+      "serene"
+    ],
+    "use_cases": [
+      "forest scene retrieval",
+      "solitary figure outdoors",
+      "dramatic backlit nature",
+      "path through woods"
+    ],
+    "composition": "centered full-body figure on a symmetrical forest path"
+  },
+  {
+    "id": "img_019",
+    "filename": "frozen_in_time.png",
+    "description": "A stylized illustration shows a lone man walking under a spotlight with blurred figures in the background.",
+    "tags": [
+      "illustration",
+      "walking",
+      "solitude",
+      "shadow",
+      "night",
+      "crowd"
+    ],
+    "mood": [
+      "moody",
+      "isolated",
+      "reflective"
+    ],
+    "use_cases": [
+      "loneliness concept search",
+      "stylized walking figure",
+      "crowd silhouette background"
+    ],
+    "composition": "centered figure with dark vignette and blurred background"
+  },
+  {
+    "id": "img_020",
+    "filename": "glow_drawer.png",
+    "description": "A person opens a glowing drawer in a dark room.",
+    "tags": [
+      "person",
+      "drawer",
+      "glowing light",
+      "dark room",
+      "indoor"
+    ],
+    "mood": [
+      "mysterious",
+      "tense"
+    ],
+    "use_cases": [
+      "person opening drawer",
+      "dark interior scene",
+      "glowing cabinet search",
+      "moody illustration"
+    ],
+    "composition": "over-the-shoulder view with subject on the right"
+  },
+  {
+    "id": "img_021",
+    "filename": "library_explore.png",
+    "description": "A lone person walks through a dim library aisle holding a lantern.",
+    "tags": [
+      "library",
+      "bookshelves",
+      "lantern",
+      "silhouette",
+      "aisle"
+    ],
+    "mood": [
+      "mysterious",
+      "quiet",
+      "moody"
+    ],
+    "use_cases": [
+      "library scene search",
+      "mysterious illustration retrieval",
+      "reading and knowledge concept",
+      "dark interior composition"
+    ],
+    "composition": "Centered figure in a symmetrical aisle with strong leading lines"
+  },
+  {
+    "id": "img_022",
+    "filename": "man_block.png",
+    "description": "A silhouetted man stands beside a geometric block against a dark gradient background with long shadows.",
+    "tags": [
+      "silhouette",
+      "man",
+      "geometric",
+      "shadow",
+      "abstract"
+    ],
+    "mood": [
+      "moody",
+      "minimal",
+      "dramatic"
+    ],
+    "use_cases": [
+      "abstract figure art",
+      "dark poster design",
+      "minimalist silhouette",
+      "conceptual background"
+    ],
+    "composition": "single figure left of center with strong diagonal shadows"
+  },
+  {
+    "id": "img_023",
+    "filename": "map_mind.png",
+    "description": "A person stands inside a head silhouette looking at a world map filled with travel-style markings.",
+    "tags": [
+      "head silhouette",
+      "world map",
+      "person",
+      "travel",
+      "conceptual",
+      "navigation"
+    ],
+    "mood": [
+      "reflective",
+      "thoughtful",
+      "mysterious"
+    ],
+    "use_cases": [
+      "concept art retrieval",
+      "travel and exploration imagery",
+      "mind and imagination concepts",
+      "global map visuals"
+    ],
+    "composition": "Centered figure בתוך large profile silhouette with map filling the head"
+  },
+  {
+    "id": "img_024",
+    "filename": "mouse_shadow.png",
+    "description": "A small mouse faces a looming oversized mouse silhouette in a stark, dramatic scene.",
+    "tags": [
+      "mouse",
+      "silhouette",
+      "shadow",
+      "dramatic",
+      "minimalism"
+    ],
+    "mood": [
+      "tense",
+      "ominous"
+    ],
+    "use_cases": [
+      "mouse illustration",
+      "shadow composition",
+      "dramatic animal scene",
+      "minimal dark art"
+    ],
+    "composition": "small subject in lower left with dominant shadow figure filling right side"
+  },
+  {
+    "id": "img_025",
+    "filename": "mysterious_cafe.png",
+    "description": "A stylized man in a fedora and sunglasses sits at a cafe table holding a steaming cup in a red-lit scene.",
+    "tags": [
+      "man",
+      "fedora",
+      "sunglasses",
+      "cafe",
+      "coffee",
+      "silhouette"
+    ],
+    "mood": [
+      "moody",
+      "mysterious",
+      "noir"
+    ],
+    "use_cases": [
+      "noir illustration retrieval",
+      "red monochrome scene search",
+      "stylized character in cafe",
+      "urban mystery artwork"
+    ],
+    "composition": "single subject in foreground with centered table and deep background"
+  },
+  {
+    "id": "img_026",
+    "filename": "order_and_chaos_head.png",
+    "description": "A split-color abstract head contains two people seated across a table in a conceptual meeting scene.",
+    "tags": [
+      "abstract",
+      "head",
+      "split-color",
+      "meeting",
+      "dualism",
+      "business"
+    ],
+    "mood": [
+      "thoughtful",
+      "contrasting"
+    ],
+    "use_cases": [
+      "abstract concept art",
+      "business meeting search",
+      "human psychology imagery",
+      "innovation and conflict"
+    ],
+    "composition": "Centered symmetrical portrait with a vertical divide"
+  },
+  {
+    "id": "img_027",
+    "filename": "outline_floor.png",
+    "description": "A lone man stands in a red-lit room beside a glowing outline of a human figure on the floor.",
+    "tags": [
+      "silhouette",
+      "red lighting",
+      "human outline",
+      "room",
+      "figure"
+    ],
+    "mood": [
+      "dark",
+      "tense",
+      "mysterious"
+    ],
+    "use_cases": [
+      "abstract human figure scene",
+      "crime thriller imagery",
+      "red monochrome interior",
+      "mystery concept art"
+    ],
+    "composition": "high-angle view with strong diagonal floor lines"
+  },
+  {
+    "id": "img_028",
+    "filename": "paper-work.png",
+    "description": "An illustrated man in a suit sits at a table and studies a tall stack of papers.",
+    "tags": [
+      "illustration",
+      "man",
+      "papers",
+      "office",
+      "thinking"
+    ],
+    "mood": [
+      "contemplative",
+      "serious"
+    ],
+    "use_cases": [
+      "business concept search",
+      "decision-making theme",
+      "document overload"
+    ],
+    "composition": "side view with large paper stack and seated figure"
+  },
+  {
+    "id": "img_029",
+    "filename": "puppete_unseen_control.png",
+    "description": "A woman sits in a chair under puppet strings controlled by large hands above.",
+    "tags": [
+      "puppet strings",
+      "woman",
+      "chair",
+      "control",
+      "spotlight",
+      "illustration"
+    ],
+    "mood": [
+      "tense",
+      "dramatic"
+    ],
+    "use_cases": [
+      "editorial control theme",
+      "psychology and manipulation",
+      "social power metaphor",
+      "concept art reference"
+    ],
+    "composition": "centered figure under overhead hands with strong spotlight"
+  },
+  {
+    "id": "img_030",
+    "filename": "red_head.png",
+    "description": "A red abstract illustration shows a human head silhouette with geometric layers and a central angular shape.",
+    "tags": [
+      "abstract",
+      "head silhouette",
+      "geometric",
+      "red",
+      "minimal"
+    ],
+    "mood": [
+      "intense",
+      "futuristic"
+    ],
+    "use_cases": [
+      "abstract art retrieval",
+      "mental health concept images",
+      "red geometric illustration search"
+    ],
+    "composition": "Centered side-profile silhouette on a flat red background"
+  },
+  {
+    "id": "img_031",
+    "filename": "self_telescope.png",
+    "description": "An illustrated person in a red shirt looks through a large telescope against a dark background.",
+    "tags": [
+      "illustration",
+      "person",
+      "telescope",
+      "search",
+      "observation"
+    ],
+    "mood": [
+      "curious",
+      "focused",
+      "dramatic"
+    ],
+    "use_cases": [
+      "astronomy concept",
+      "search and discovery",
+      "observation theme",
+      "illustrated hero image"
+    ],
+    "composition": "medium shot with diagonal telescope leading from left to right"
+  },
+  {
+    "id": "img_032",
+    "filename": "solitary-figure-gazin.png",
+    "description": "A man stands in a window overlooking a busy city street with pedestrians and taxis.",
+    "tags": [
+      "cityscape",
+      "pedestrians",
+      "taxi",
+      "window",
+      "silhouette"
+    ],
+    "mood": [
+      "contemplative",
+      "urban",
+      "calm"
+    ],
+    "use_cases": [
+      "city street scene",
+      "business urban concept",
+      "people in motion",
+      "window viewpoint"
+    ],
+    "composition": "Foreground silhouette framing a wide street vista"
+  },
+  {
+    "id": "img_033",
+    "filename": "split-identity.png",
+    "description": "A stylized split portrait shows a man in a suit and hood holding a coffee cup and a cigarette.",
+    "tags": [
+      "portrait",
+      "businessman",
+      "hooded figure",
+      "coffee cup",
+      "cigarette",
+      "split background"
+    ],
+    "mood": [
+      "moody",
+      "stylized",
+      "noir"
+    ],
+    "use_cases": [
+      "split-tone portrait",
+      "urban professional illustration",
+      "smoking and coffee theme",
+      "fashion editorial poster"
+    ],
+    "composition": "Centered full-body figure with vertical split framing"
+  },
+  {
+    "id": "img_034",
+    "filename": "spotlight.png",
+    "description": "A lone man stands in a dark room illuminated by a narrow beam of light.",
+    "tags": [
+      "man",
+      "silhouette",
+      "beam of light",
+      "dark room",
+      "solitude"
+    ],
+    "mood": [
+      "dramatic",
+      "isolated",
+      "contemplative"
+    ],
+    "use_cases": [
+      "lonely figure",
+      "dramatic lighting",
+      "minimalist illustration",
+      "conceptual solitude"
+    ],
+    "composition": "rear view subject centered in a diagonal spotlight"
+  },
+  {
+    "id": "img_035",
+    "filename": "stand_in_crowd.png",
+    "description": "A lone man walks forward through a crowd toward a bright light.",
+    "tags": [
+      "crowd",
+      "lone figure",
+      "walking",
+      "backlit",
+      "silhouette"
+    ],
+    "mood": [
+      "dramatic",
+      "isolated",
+      "hopeful"
+    ],
+    "use_cases": [
+      "loneliness concept",
+      "leadership metaphor",
+      "crowd scene",
+      "ambitious journey"
+    ],
+    "composition": "centered rear view with strong light beams and surrounding motion blur"
+  },
+  {
+    "id": "img_036",
+    "filename": "struggling_weight.png",
+    "description": "A silhouetted person strains forward while dragging a heavy chain attached to a large block.",
+    "tags": [
+      "silhouette",
+      "chain",
+      "burden",
+      "struggle",
+      "abstract"
+    ],
+    "mood": [
+      "tense",
+      "dramatic",
+      "oppressive"
+    ],
+    "use_cases": [
+      "conceptual struggle",
+      "psychological burden",
+      "symbolic freedom",
+      "editorial illustration"
+    ],
+    "composition": "Diagonal composition with figure on the right and block on the left"
+  },
+  {
+    "id": "img_037",
+    "filename": "tally_mark.png",
+    "description": "A man stands facing a red patterned wall while holding up a smartphone.",
+    "tags": [
+      "man",
+      "smartphone",
+      "red wall",
+      "pattern",
+      "standing",
+      "digital illustration"
+    ],
+    "mood": [
+      "focused",
+      "minimal"
+    ],
+    "use_cases": [
+      "person using phone",
+      "red abstract background",
+      "standing figure illustration",
+      "modern digital art"
+    ],
+    "composition": "Rear view full-body figure centered against a graphic wall"
+  },
+  {
+    "id": "img_038",
+    "filename": "tension_couple.png",
+    "description": "A man and woman stand on opposite sides of a jagged split background.",
+    "tags": [
+      "silhouettes",
+      "man",
+      "woman",
+      "split",
+      "conflict",
+      "abstract"
+    ],
+    "mood": [
+      "tense",
+      "dramatic"
+    ],
+    "use_cases": [
+      "relationship conflict",
+      "division and contrast",
+      "abstract editorial art"
+    ],
+    "composition": "Centered vertical split with figures mirrored on each side"
+  },
+  {
+    "id": "img_039",
+    "filename": "trapped.png",
+    "description": "A distressed man sits at a desk with his head in his hand and a chain and padlock attached to his wrist.",
+    "tags": [
+      "distress",
+      "chain",
+      "padlock",
+      "man",
+      "desk",
+      "stress"
+    ],
+    "mood": [
+      "somber",
+      "anxious"
+    ],
+    "use_cases": [
+      "mental health concept",
+      "stress and anxiety",
+      "captivity metaphor",
+      "depression illustration"
+    ],
+    "composition": "diagonal split background with subject centered in foreground"
+  }
+]
